@@ -3,7 +3,7 @@ Kotlin for Eclipse
 
 ##Building and Development
 
-Eclipse Kepler (4.3.1) is a recomended way for building and developing kotlin-eclipse project so far. [Eclipse SDK](http://download.eclipse.org/eclipse/downloads/drops4/R-4.3.1-201309111000/) version could be a good choise for development because of bundled sources for eclipse core and JDT plugins.
+Eclipse Kepler (4.3.1) is a recommended way for building and developing kotlin-eclipse project so far. [Eclipse SDK](http://download.eclipse.org/eclipse/downloads/drops4/R-4.3.1-201309111000/) version could be a good choise for development because of bundled sources for eclipse core and JDT plugins.
 
 In order to start development in Eclipse:
  - Import plugin projects from cloned repository into workspace 
